@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushvaish2511" alt="ayushvaish2511" /></a> </p>
 
-- 🌱 I’m currently learning **JS, React, NodeJS**
 
 - 📫 How to reach me **ayushvaish2511@gmail.com**
 
