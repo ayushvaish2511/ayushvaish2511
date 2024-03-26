@@ -6,7 +6,7 @@
 
 - 👨🏻‍🏫 ex-SDE Intern @ Microsoft.
 - 💻 Computer Science Major.
-- 🖥 Front-End Developer.
+- 🖥 Full-Stack Developer.
 - ☕️ Java - Competitive Coder.
 
 
